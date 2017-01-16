@@ -13,6 +13,9 @@
  * Handles all order-processing functions
  *
  * @package classes
+
+some  changes
+
  */
 if (!defined('IS_ADMIN_FLAG')) {
   die('Illegal Access');
